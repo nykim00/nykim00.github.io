@@ -1,11 +1,29 @@
 ## Welcome to NAYEON's github page!!
 
-You can use the [editor on GitHub](https://github.com/nykim00/nykim00.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+On this page, I want to talk about my major and interests~!!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### MY MAJOR
 
-### Markdown
+My first major in Handong University is biology. 
+I liked science since I was a child, especially life science.
 
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -25,7 +43,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
