@@ -1,8 +1,11 @@
 ## Welcome to NAYEON's github page!!
 
 Hi~~ my name is Nayeon Kim and i'm 21 in korean age.
+
 I entered Handong University in 2019 and now I am in 2nd grade.
-My new major is afraid and trembling, but I am looking forward to it.
+
+I am afraid and trembling as a newcomer in my major, but I am looking forward to it.
+
 On this page, I want to talk about my major and interests~!!
 
 ### MY MAJOR
