@@ -53,8 +53,6 @@ but it seems quite fun.
 
 For more details about [Handong's Computer Science and Engineering department](http://csee.handong.edu/)
 
----------------------------
-
 
 ### Handong Global University
 
