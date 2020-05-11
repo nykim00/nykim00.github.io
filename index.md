@@ -28,7 +28,11 @@ and it's hard but rewarding.
 
 ![Image](https://cphoto.asiae.co.kr/listimglink/6/2018071009524750751_1531183965.jpg)
 
+
+
 -----------------------------------
+
+
 
 My second major in Handong University is Computer Science. 
 Last year I had fun learning coding and became interested in this field.
@@ -49,10 +53,15 @@ but it seems quite fun.
 
 For more details about [Handong's Computer Science and Engineering department](http://csee.handong.edu/)
 
+### Handong Global University
+
+I'm in 
+
+![Image](https://yt3.ggpht.com/a/AGF-l7-Rp9C3y6lw96SWzI9qpyOxkjIrK2fxpYROHQ=s900-c-k-c0xffffffff-no-rj-mo)
+
+
+Do you want more information about HGU? Check out website [English](https://www.handong.edu/eng/) or [Korean](https://www.handong.edu/) and it will be helpful for you.
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nykim00/nykim00.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
