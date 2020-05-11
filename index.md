@@ -1,16 +1,19 @@
 ## Welcome to NAYEON's github page!!
 
+Hi~~ my name is Nayeon Kim and i'm 21 in korean age.
+I entered Handong University in 2019 and now I am in 2nd grade.
+My new major is afraid and trembling, but I am looking forward to it.
 On this page, I want to talk about my major and interests~!!
 
 ### MY MAJOR
 
-My first major in Handong University is biology. 
+My first major in Handong University is Biology. 
 I liked science since I was a child, especially life science.
 
 ```markdown
-This year is my first grade in biology department.
+This year is my first grade in Biology department.
 This semester, I am taking general microbiology 
-and organic chemistry classes out of biology classes.
+and organic chemistry classes out of Biology classes.
 In class,We study small, invisible creatures 
 such as bacteria and viruses, 
 and study chemical properties and reactions 
@@ -19,31 +22,29 @@ I'm still having fun studying
 and it's hard but rewarding.
 ```
 ![Image](https://cdn.pixabay.com/photo/2018/12/22/13/18/dna-3889611__340.jpg)
+
 ![Image](https://cphoto.asiae.co.kr/listimglink/6/2018071009524750751_1531183965.jpg)
 
 -----------------------------------
 
 My second major in Handong University is Computer Science. 
-
+Last year I had fun learning coding and became interested in this field.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+This year is my first grade in Computer Science department.
+This semester, I am taking data structure, java programing
+and open source software out of Computer Science classes.
+In class,We study how to process data for good programs 
+and learn basic Java language 
+and deal with open software sources. 
+It's harder and more complicated than I thought, 
+but it seems quite fun.
 ```
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Image](https://www.postech.ac.kr/wp-content/uploads/2018/07/159-07-1.jpg)
+
+![Image](https://theorydb.github.io/assets/img/think/2019-06-25-think-future-ai-1.png)
+
+For more details about [Handong's Computer Science and Engineering department](http://csee.handong.edu/)
 
 ### Jekyll Themes
 
