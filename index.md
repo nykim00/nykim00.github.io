@@ -19,13 +19,12 @@ I'm still having fun studying
 and it's hard but rewarding.
 ```
 ![Image](https://cdn.pixabay.com/photo/2018/12/22/13/18/dna-3889611__340.jpg)
-![Image](https://cdn.pixabay.com/photo/2018/12/22/13/18/dna-3889611__340.jpg)
-![Image](https://cdn.pixabay.com/photo/2018/12/22/13/18/dna-3889611__340.jpg)
+![Image](https://cphoto.asiae.co.kr/listimglink/6/2018071009524750751_1531183965.jpg)
 
 -----------------------------------
 
-My second major in Handong University is biology. 
-I liked science since I was a child, especially life science.
+My second major in Handong University is Computer Science. 
+
 
 ```markdown
 Syntax highlighted code block
