@@ -1,16 +1,16 @@
 ## Welcome to NAYEON's github page!!
 
-Hi~~ my name is Nayeon Kim and i'm 21 in korean age.
+Hello~~ My name is Nayeon Kim and I'm 21 in korean age.
 
-I entered Handong University in 2019 and now I am in 2nd grade.
+I entered Handong Global University in 2019 and now I am in 2nd grade.
 
 I am afraid and trembling as a newcomer in my major, but I am looking forward to it.
 
 On this page, I want to talk about my major and interests~!!
 
-### MY MAJOR
+### MY MAJOR based on MY INTERESTS
 
-My first major in Handong University is Biology. 
+**My first major in Handong University is Biology.**  
 I liked science since I was a child, especially life science.
 
 ```markdown
@@ -30,11 +30,11 @@ and it's hard but rewarding.
 
 
 
------------------------------------
+-----------------------------------  
 
 
 
-My second major in Handong University is Computer Science. 
+**My second major in Handong University is Computer Science.**  
 Last year I had fun learning coding and became interested in this field.
 
 ```markdown
@@ -53,15 +53,19 @@ but it seems quite fun.
 
 For more details about [Handong's Computer Science and Engineering department](http://csee.handong.edu/)
 
+---------------------------
+
+
 ### Handong Global University
 
-I'm in 
+I am currently studying at Handong Global University.  
+I love our university and I met many good friends and professors here.  
+Here, students study with a worldview based on the Christian spirit.  
 
 ![Image](https://yt3.ggpht.com/a/AGF-l7-Rp9C3y6lw96SWzI9qpyOxkjIrK2fxpYROHQ=s900-c-k-c0xffffffff-no-rj-mo)
 
 
-Do you want more information about HGU? Check out website [English](https://www.handong.edu/eng/) or [Korean](https://www.handong.edu/) and it will be helpful for you.
+Do you want more information about HGU? Check out website [English](https://www.handong.edu/eng/) or [Korean](https://www.handong.edu/) and it will be helpful for you.  
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nykim00/nykim00.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+##### about github page setting
+###### If you have any more questions on my Github page, please check my [repository settings](https://github.com/nykim00/nykim00.github.io/settings).
