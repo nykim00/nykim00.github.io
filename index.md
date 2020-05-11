@@ -9,10 +9,14 @@ I liked science since I was a child, especially life science.
 
 ```markdown
 This year is my first grade in biology department.
-This semester, I am taking general microbiology and organic chemistry classes out of biology classes.
-In class,We study small, invisible creatures such as bacteria and viruses, 
-and study chemical properties and reactions related to organic matter. 
-I'm still having fun studying and it's hard but rewarding.
+This semester, I am taking general microbiology 
+and organic chemistry classes out of biology classes.
+In class,We study small, invisible creatures 
+such as bacteria and viruses, 
+and study chemical properties and reactions 
+related to organic matter. 
+I'm still having fun studying 
+and it's hard but rewarding.
 ```
 ![Image](https://cdn.pixabay.com/photo/2018/12/22/13/18/dna-3889611__340.jpg)
 ![Image](https://cdn.pixabay.com/photo/2018/12/22/13/18/dna-3889611__340.jpg)
@@ -20,7 +24,8 @@ I'm still having fun studying and it's hard but rewarding.
 
 -----------------------------------
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My second major in Handong University is biology. 
+I liked science since I was a child, especially life science.
 
 ```markdown
 Syntax highlighted code block
