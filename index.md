@@ -65,5 +65,5 @@ Here, students study with a worldview based on the Christian spirit.
 
 Do you want more information about HGU? Check out website [English](https://www.handong.edu/eng/) or [Korean](https://www.handong.edu/) and it will be helpful for you.  
 
-##### about github page setting
+#### about github page setting
 ###### If you have any more questions on my Github page, please check my [repository settings](https://github.com/nykim00/nykim00.github.io/settings).
