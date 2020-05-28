@@ -11,7 +11,7 @@ On this page, I want to talk about my major and interests~!!
 ### MY MAJOR based on MY INTERESTS
 
 **My first major in Handong University is Biology.**  
-I liked science since I was a child, especially life science.
+_I liked science since I was a child, especially life science.
 
 ```markdown
 This year is my first grade in Biology department.
@@ -35,7 +35,7 @@ and it's hard but rewarding.
 
 
 **My second major in Handong University is Computer Science.**  
-Last year I had fun learning coding and became interested in this field.
+_Last year I had fun learning coding and became interested in this field.
 
 ```markdown
 This year is my first grade in Computer Science department.
